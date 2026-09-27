@@ -1,0 +1,12 @@
+# Large archives and extracts (re-download from upstream)
+*.zip
+*.tgz
+*.tar
+*.tar.gz
+*.7z
+extracted/
+data/
+*.log
+nohup*.out
+.DS_Store
+__pycache__/
